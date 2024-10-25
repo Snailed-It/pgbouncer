@@ -1,4 +1,4 @@
-FROM registry.opensource.zalan.do/acid/pgbouncer:master-27
+FROM registry.opensource.zalan.do/acid/pgbouncer:master-32
 
 USER root
 
